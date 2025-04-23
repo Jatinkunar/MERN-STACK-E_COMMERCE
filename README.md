@@ -24,7 +24,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Jatinkunar/MERN-STACK-E_COMMERCE.git
 ```
 
 Go to the project directory
